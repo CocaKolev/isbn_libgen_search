@@ -1,20 +1,27 @@
 {
-  "manifest_version": 3,
-  "name": "ISBN LibGen Search",
-  "version": "1.0",
-  "description": "Retrieve the ISBN from an Amazon book listing and redirect to the libgen.is search results.",
-  "permissions": ["activeTab", "scripting"],
-  "action": {
-    "default_icon": "icon.png",
-    "default_popup": "popup.html"
-  },
-  "content_scripts": [
-    {
-      "matches": ["*://*.amazon.com/*"],
-      "js": ["content.js"]
+    "manifest_version": 3,
+    "name": "ISBN LibGen Search",
+    "version": "1.0",
+    "description": "Retrieve the ISBN from an Amazon book listing and redirect to the libgen.is search results.",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_icon": "icon2.png",
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*.amazon.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ],
+    "background": {
+        "service_worker": "background.js"
     }
-  ],
-  "background": {
-    "service_worker": "background.js"
-  }
 }
