@@ -1,11 +1,12 @@
+```
          __...--~~~~~-._   _.-~~~~~--...__
-      //               `V'               \\ 
-     //                 |                 \\
-    //__...--~~~~~~-._  |  _.-~~~~~~--...__\\
-   //__.....----~~~~._\ | /_.~~~~----.....__\\
-  ====================\\|//====================
+       //               `V'               \\ 
+      //                 |                 \\
+     //__...--~~~~~~-._  |  _.-~~~~~~--...__\\
+    //__.....----~~~~._\\|//_.~~~~----.....__\\
+    `==================\\|//=================='
                        `---`
-
+```
 # ISBN LibGen Search - Chrome Extension
 
 This Chrome extension allows users to easily search for a book's ISBN on LibGen directly from an Amazon book listing page. The extension identifies the ISBN-13 number from the Amazon listing and opens the corresponding search results on libgen.is in a new tab.
