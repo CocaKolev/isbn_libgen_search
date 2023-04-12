@@ -7,6 +7,10 @@
     `==================\\|//=================='
                        `---`
 ```
+## Help Me Pay My Student Loans
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kirilkolev)
+
+
 # ISBN LibGen Search - Chrome Extension
 
 This Chrome extension allows users to easily search for a book's ISBN on LibGen directly from an Amazon book listing page. The extension identifies the ISBN-13 number from the Amazon listing and opens the corresponding search results on libgen.is in a new tab.
