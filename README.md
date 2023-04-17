@@ -7,7 +7,7 @@
     `==================\\|//=================='
                        `---`
 ```
-## Help Me Pay My Student Loans
+## Like this project? Help me pay my student loans.
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kirilkolev)
 
 
